@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Dr.chandra sekher",
+    "email": "chandu@gmail.com",
+    "password": "chandu123",
+    "time": "6am - 1pm",
+    "salary": "50000",
+    "category": "neurologist",
+    "status": "Emergency"
+  },
+  {
+    "name": "sowmya",
+    "email": "sowmya@gmail.com",
+    "password": "sowmya123",
+    "time": "1pm-7pm",
+    "salary": "40,000",
+    "category": "dentist"
+  },
+  {
+    "name": "Rani",
+    "email": "rani@gmail.com",
+    "password": "rani123",
+    "time": "4pm - 9pm",
+    "salary": "70,000",
+    "category": "cardiologist",
+    "status": "Available"
+  },
+  {
+    "name": "shyam",
+    "email": "shyam@gmail.com",
+    "password": "shyam123",
+    "time": "4am - 11am",
+    "salary": "30,000",
+    "category": "Dermatologist",
+    "status": "Available"
+  },
+  {
+    "name": "Rajeev",
+    "email": "rajeev@gmail.com",
+    "password": "rajeev123",
+    "time": "10am - 4pm",
+    "salary": "60,000",
+    "category": "oncologist",
+    "status": "Available"
+  },
+  {
+    "name": "vennela",
+    "email": "vennela@gmail.com",
+    "password": "vennela123",
+    "time": "4am-1pm",
+    "salary": "30,000",
+    "category": "Dermatologist",
+    "status": "Available"
+  }
+]
